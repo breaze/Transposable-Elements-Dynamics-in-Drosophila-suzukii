@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="/Users/breaze/Documents/Master/Thesis/execution/d_melanogaster_reference_genome/d_melanogaster_reference_genome/ncbi_dataset/data/GCF_000001215.4/GCF_000001215.4_Release_6_plus_ISO1_MT_genomic.fna" locus="NT_033777.3:21355880-21385462" version="8">
+    <Resources>
+        <Resource path="/Users/breaze/Documents/Master/Thesis/execution/thesis_raw/objective_2/genome_annotation/melano_fixed_ids.gff" type="gff"/>
+        <Resource path="/Users/breaze/Documents/Master/Thesis/execution/supplementary_material/Transposable-Elements-Dynamics-in-Drosophila-suzukii/genome_annotations/annotation_fixed_ids.gff" type="gff"/>
+    </Resources>
+    <Panel height="743" name="FeaturePanel" width="1495">
+        <Track attributeKey="Reference sequence" clazz="org.broad.igv.track.SequenceTrack" fontSize="10" id="Reference sequence" name="Reference sequence" sequenceTranslationStrandValue="+" shouldShowTranslation="false" visible="true"/>
+        <Track attributeKey="annotation_fixed_ids.gff" clazz="org.broad.igv.track.FeatureTrack" colorScale="ContinuousColorScale;0.0;3903.0;255,255,255;0,0,178" fontSize="10" groupByStrand="false" id="/Users/breaze/Documents/Master/Thesis/execution/supplementary_material/Transposable-Elements-Dynamics-in-Drosophila-suzukii/genome_annotations/annotation_fixed_ids.gff" name="GeneAnnotation" visible="true"/>
+        <Track attributeKey="melano_fixed_ids.gff" clazz="org.broad.igv.track.FeatureTrack" colorScale="ContinuousColorScale;0.0;119.0;255,255,255;0,0,178" fontSize="10" groupByStrand="false" id="/Users/breaze/Documents/Master/Thesis/execution/thesis_raw/objective_2/genome_annotation/melano_fixed_ids.gff" name="TEAnnotation" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.009271523178807948"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
